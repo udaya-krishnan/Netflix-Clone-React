@@ -55,6 +55,7 @@
     position: absolute;
     top: 100%;
     right: 5;
+    margin-top: -20px;
     width: max-content;
     background: #191919;
     padding: 18px 22px;
@@ -71,4 +72,9 @@
 
 .navbar-profile:hover .dropdown{
     display: block;
+}
+
+
+.nav-dark{
+    background: #141414;
 }
